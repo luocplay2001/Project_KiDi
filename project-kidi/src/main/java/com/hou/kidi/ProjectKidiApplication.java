@@ -1,4 +1,4 @@
-package com.hou.kieudiem;
+package com.hou.kidi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
